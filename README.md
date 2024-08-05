@@ -1,5 +1,5 @@
 # b07c-raytracing
-This repository contains an example script that is used in the B07c ray-tracing calculations. The results are presented in the article:
+This repository contains an example script that was used in the B07c ray-tracing calculations. The results are presented in the article:
 
 Wang, P.Y., Walters, A., Bazan da Silva, M., et al., An Automated Method for Performing Robust Ray-tracing Simulations of Soft X-ray Beamlines, Journal of Synchrotron Radiation, in preparation.
 
